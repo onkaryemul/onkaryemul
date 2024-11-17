@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Cloud Computing, Machine Learning**
 
-- 💬 Ask me about **Java, SQL, MERN, Cloud**
+- 💬 Ask me about **Java, DSA, SQL, MERN, Cloud**
 
 - 📫 How to reach me **onkaryemul2003@gmail.com**
 
